@@ -8,7 +8,7 @@
 * Assign employees to participate in another employee's performance review
 
 ### Employee view
-* List of performance reviews to submit feedback
+* List of performance reviews requiring feedback
 * Submit feedback
 
 ## Challenge Scope
