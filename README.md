@@ -14,7 +14,7 @@
 ## Challenge Scope
 * High level diagram/description of design and technologies used
 * Database/data model design
-* Server size API design
+* Server side API design
 * Web app page flow design
 * 2-5 pages of the web application (JavaScript/css) that talks to server side (Use static responses instead of live server side API)
 * All assumptions made
