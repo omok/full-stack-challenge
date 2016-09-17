@@ -17,9 +17,10 @@ Design a web application that allows employees to submit feedback toward each ot
 * High level diagram/description of design and technologies used
 * Data store/data model design
 * Server side API design (Using a programming language and/or framework of your choice)
+  * Implementation of 3 API calls
 * Web app page flow design
-* 2-5 pages of the web application using modern framework (e.g. Angular, Ember or React) that talks to server side
-  * You may use static responses instead of live server side API
+  * Implementation of 2-5 web pages using any modern framework (e.g. Angular, Ember or React) that talks to server side
+    * You may use static responses instead of live server side API
 * Document all assumptions made
 
 ## How to complete this challenge
