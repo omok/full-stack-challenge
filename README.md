@@ -13,8 +13,9 @@
 
 ## Challenge Scope
 * High level diagram/description of design and technologies used
-* Database/data model design
+* Data store/data model design
 * Server side API design
 * Web app page flow design
-* 2-5 pages of the web application (JavaScript/css) that talks to server side (Use static responses instead of live server side API)
+* 2-5 pages of the web application using modern framework (e.g. Angular, Ember or React) that talks to server side
+  * You may use static responses instead of live server side API
 * All assumptions made
